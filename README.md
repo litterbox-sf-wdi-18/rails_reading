@@ -18,6 +18,8 @@ Be aware that Ruby on Rails changes often, and there are different editions of t
 
 ###Other Useful Tools
 
+Here are some other frequently-used Rails tools you might want to read about!  
+
 ####Factory Girl
 
 Read about [Factory Girl](https://github.com/thoughtbot/factory_girl) and especially [Factory Girl Rails](https://github.com/thoughtbot/factory_girl_rails).
@@ -25,3 +27,7 @@ Read about [Factory Girl](https://github.com/thoughtbot/factory_girl) and especi
 ####FFaker
 
 We've touched on using Ffaker to generate test data, but take a look at the [docs!](https://github.com/EmmanuelOga/ffaker).
+
+###Submission
+
+There is no URL to submit tonight, but please use the homework submission form to identify at least one interesting new thing you learned from your reading! 
