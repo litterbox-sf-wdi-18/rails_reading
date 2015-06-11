@@ -20,4 +20,8 @@ Be aware that Ruby on Rails changes often, and there are different editions of t
 
 ####Factory Girl
 
+Read about [Factory Girl](https://github.com/thoughtbot/factory_girl) and especially [Factory Girl Rails](https://github.com/thoughtbot/factory_girl_rails).
+
 ####FFaker
+
+We've touched on using Ffaker to generate test data, but take a look at the [docs!](https://github.com/EmmanuelOga/ffaker).
