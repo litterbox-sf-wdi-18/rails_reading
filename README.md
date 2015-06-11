@@ -15,6 +15,8 @@ Be aware that Ruby on Rails changes often, and there are different editions of t
 [Form Helpers](http://guides.rubyonrails.org/form_helpers.html)    
 [Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html)   
 
+[Testing](http://guides.rubyonrails.org/testing.html)
+
 ##Submission
 
 There is no URL to submit tonight, but please use the homework submission form to identify at least one interesting new thing you learned from your reading! 
